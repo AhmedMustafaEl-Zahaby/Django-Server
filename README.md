@@ -101,7 +101,7 @@ There are 4 allowed requests:
 **_Request_**
 
 - Request Header
-  - `localhost:8000/student/3`
+  - `localhost:8000/student/2`
 - Request Body
 
   - ```json
