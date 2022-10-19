@@ -1,1 +1,12 @@
-[{"id": 1, "name": "Ahmed", "class": 13, "age": 14}, {"id": 2, "name": "Ali", "class": 16, "age": 20}]
+[
+  { 
+    "id": 1,
+    "name": "Ahmed",
+    "class": 13,
+    "age": 14 },
+  { 
+    "id": 2,
+    "name": "Ali",
+    "class": 16,
+    "age": 20 }
+]
