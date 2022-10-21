@@ -191,5 +191,5 @@ There are 4 allowed requests:
 **_Response_**
 
 ```json
-[]
+[] <!--- There is no data init --->
 ```
